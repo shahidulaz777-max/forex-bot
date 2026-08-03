@@ -1,7 +1,0 @@
-aiogram>=3.0.0
-pandas
-numpy
-yfinance
-mplfinance
-aiohttp
-python-dotenv
